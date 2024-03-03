@@ -1,0 +1,2 @@
+Prefix plugins/ChebyNet/example/
+Plugin ChebyNet inputfile none outputfile none
